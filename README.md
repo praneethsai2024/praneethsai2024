@@ -1,1 +1,1 @@
-[praneethsai2024](https://capsule-render.vercel.app/api type=wave&height=450&color=C6BBB7&text=Full%20Stack%20Developer&section=header&reversal=false&textBg=false&fontColor=161b22&fontSize=45&fontAlign=50&animation=fadeIn&desc=Code.Create.Collaborate&descSize=19)
+https://capsule-render.vercel.app/apitype=wave&height=450&color=C6BBB7&text=Full%20Stack%20Developer&section=header&reversal=false&textBg=false&fontColor=161b22&fontSize=45&fontAlign=50&animation=fadeIn&desc=Code.Create.Collaborate&descSize=19
